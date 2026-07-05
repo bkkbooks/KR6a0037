@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0037_000.yaml, hash: 'sha256:c1660eaf6b5472bb6714c81da62cebba08ad6d95965db29c171f13e60c73ba9c'}
-  - {seq: 1, filename: KR6a0037_001.yaml, hash: 'sha256:d36e2f2866068d253f4bd1f682bc1f91ee9fb64a0d2e23d3c54b556cf4c7f2c3'}
+  - {seq: 1, filename: KR6a0037_001.yaml, hash: 'sha256:0d95066f625d285f59c0644ff954d06bd71b29fe5da1e87741c6fd29597ac8d1'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6a0037_001.markers.yaml, hash: 'sha256:69a270a373ebe1852f553ab59c984336792a6ecb6ff30741769c0e5ebfc34c4f'}
+  - {seq: 0, role: markers, filename: assets/KR6a0037_000.markers.yaml, hash: 'sha256:f96956f54122a7e50164ff817b2354c9fb7b66c875f4020185b980db02d6dd7c'}
+  - {seq: 1, role: markers, filename: assets/KR6a0037_001.markers.yaml, hash: 'sha256:c072efc9f64745be0c8de1ce723b8e1449f06102a5d056c04f3bb9134bd7b29d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 佛說緣本致經
   type: juan
   level: 1
-hash: sha256:f7a316c989ba7f15b072819cef7368dc8db4c8826d0f0a6f6da70e7f48390465
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b54fa2f34e70bdf4cb9abec2d07fbfa02af9dfa856f011a639f4daaa47d3cde3
